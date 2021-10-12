@@ -1,0 +1,39 @@
+body,
+html {
+    padding: 0;
+    margin: 0;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 1rem;
+    background-color: #e4f5f3;
+}
+
+.wrapper {
+    max-width: 80%;
+    margin: auto;
+    height: 100vh;
+}
+
+.header,
+.main,
+.aside,
+.footer {
+    color: black;
+    box-sizing: border-box;
+}
+
+.header {
+    /* background-color: #2b2024; */
+}
+
+.main {
+    /* background-color: #fd0054; */
+}
+
+.aside {
+    /* background-color: #a80038; */
+}
+
+.footer {
+    /* background-color: #2b2024; */
+    border-top: 3px solid black;
+}
